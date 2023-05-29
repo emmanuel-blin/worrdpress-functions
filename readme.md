@@ -49,7 +49,7 @@ create a atom feed for the rundown panel,  with the 3 last published articles, a
 ### Display the new feeds
 
 Go to Setting -> Permalinks 
-Click the " Save Changes "
+And click the " Save Changes "
 
 and access your new feed via yourDomain[.]com/feed/XMLFeedName
 
