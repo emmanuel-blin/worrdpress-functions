@@ -1,7 +1,7 @@
 <?php 
 
 function custom_atom_feed_combined() {
-   add_feed( 'atomrss', 'custom_atom_feed_combined' );
+   add_feed( 'ATOMFeedName', 'custom_atom_feed_combined' );
 }
 
 add_action( 'init', 'custom_atom_feed_combined' );
