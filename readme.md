@@ -1,4 +1,4 @@
-# Wordpress New Feed Generator
+# Wordpress News Feed Generator
 
 ### Description 
 
