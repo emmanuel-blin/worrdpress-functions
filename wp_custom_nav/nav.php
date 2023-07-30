@@ -9,7 +9,7 @@ require_once get_template_directory() . '/parts/custom-category-walker.php';
  <nav class="bg-white w-full">
    <div class="max-w-screen flex flex-wrap items-center justify-between mx-auto">
      <a href="/" class="flex items-center logo">
-         <img src="<?php bloginfo('template_url');?>/assets/logo-experts.png" class="h-auto w-[8rem] md:w-full" alt="Les experps by alc régie" />
+         <img src="<?php bloginfo('template_url');?>Path_To_Logo" class="h-auto w-[8rem] md:w-full" alt="" />
      </a>
      <button data-collapse-toggle="navbar-default" type="button" class="inline-flex items-center p-2 ml-3 text-sm text-gray-500 rounded-lg xl:hidden hover:ring-2 hover:ring-black focus:outline-none focus:ring-2 focus:ring-black text-color " aria-controls="navbar-default" aria-expanded="false">
        <span class="sr-only">Ouvrir le menu</span>
@@ -30,7 +30,7 @@ require_once get_template_directory() . '/parts/custom-category-walker.php';
             wp_nav_menu($args);
             ?>
 
-      <a href="https://fr.linkedin.com/company/alc-r%C3%A9gie" target="_blank" class="py-2 px-3"><img src="<?php bloginfo('template_url');?>/assets/Linkedin.svg" alt=""></a>
+      <a href="icon url" target="_blank" class="py-2 px-3"><img src="<?php bloginfo('template_url');?>Path_To_Icon" alt=""></a>
      </div>
      
      </div>
